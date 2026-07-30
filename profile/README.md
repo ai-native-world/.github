@@ -1,32 +1,67 @@
 <div align="center">
 
 <br>
-<br>
 
-<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- outer ring -->
-  <circle cx="48" cy="48" r="44" stroke="#555" stroke-width="1.5" fill="none"/>
-  <!-- middle ring -->
-  <circle cx="48" cy="48" r="30" stroke="#777" stroke-width="1" fill="none" stroke-dasharray="4 4"/>
-  <!-- inner ring -->
-  <circle cx="48" cy="48" r="16" stroke="#999" stroke-width="0.75" fill="none"/>
-  <!-- center dot -->
-  <circle cx="48" cy="48" r="3" fill="#aaa"/>
-  <!-- orbital nodes -->
-  <circle cx="48" cy="8" r="2.5" fill="#ccc"/>
-  <circle cx="76" cy="28" r="2.5" fill="#ccc"/>
-  <circle cx="82" cy="58" r="2.5" fill="#ccc"/>
-  <circle cx="62" cy="84" r="2.5" fill="#ccc"/>
-  <circle cx="28" cy="82" r="2.5" fill="#ccc"/>
-  <circle cx="12" cy="52" r="2.5" fill="#ccc"/>
-  <circle cx="18" cy="20" r="2.5" fill="#ccc"/>
+<!-- 顶部装饰线 -->
+<svg width="100%" height="1" viewBox="0 0 1200 1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="20%" stop-color="#30363d"/>
+      <stop offset="50%" stop-color="#58a6ff"/>
+      <stop offset="80%" stop-color="#30363d"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1" fill="url(#g1)"/>
 </svg>
 
 <br>
 <br>
 
-<h1>ai-native-world</h1>
+<!-- 主视觉 -->
+<pre style="line-height:1.2;font-size:10px;color:#8b949e;background:none;border:none">
+                              ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                              █▌                                                   ▐█
+                              █▌                                                   ▐█
+                              █▌                    ╔╗  ┌─┐                        ▐█
+                              █▌                   ╔╝╠╗ │ │ ╔╗ ╔╗ ╔╦╗              ▐█
+                              █▌                   ╚╗╚╝ │ │ ╠╣ ╠╣  ║               ▐█
+                              █▌                   ╔╝   │ │ ╠╣ ╠╣  ║               ▐█
+                              █▌                   ╚╝   └─┘ ╚╝ ╚╝  ╩               ▐█
+                              █▌                                                   ▐█
+                              █▌         ┌──────────────────────────┐             ▐█
+                              █▌         │  a i - n a t i v e - w o r l d         ▐█
+                              █▌         │      Reshape the world.               ▐█
+                              █▌         └──────────────────────────┘             ▐█
+                              █▌                                                   ▐█
+                              █▌                                                   ▐█
+                              █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▌
+                               ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+</pre>
 
-<h3><em>Reshape the world.</em></h3>
+<br>
+
+<!-- 第二道装饰线 -->
+<svg width="100%" height="1" viewBox="0 0 1200 1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="30%" stop-color="#30363d"/>
+      <stop offset="50%" stop-color="#3fb950"/>
+      <stop offset="70%" stop-color="#30363d"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1" fill="url(#g2)"/>
+</svg>
+
+<br>
+<br>
+
+<!-- 底部引语 -->
+<sub>✦ &nbsp; building the future, one system at a time &nbsp; ✦</sub>
+
+<br><br>
 
 </div>
